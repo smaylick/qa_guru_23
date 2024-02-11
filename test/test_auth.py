@@ -2,7 +2,7 @@ import allure
 
 
 @allure.id("29999")
-@allure.title("Auth via Google(clone)")
+@allure.title("Auth via Google")
 @allure.tag("web", "smoke")
 @allure.story("External Auth")
 @allure.feature("Auth")
